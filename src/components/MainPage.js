@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import './MainPage.css';
-import Cardlist from "../components/Cardlist";
+import Cardlist from "./Cardlist";
 import Scroller from "../components/Scroller";
 import ErrorBoundry from "../containers/ErrorBoundry";
 import Header from "../containers/Header";
